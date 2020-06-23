@@ -1,0 +1,12 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+.list_form{
+    background-color: blue;
+    margin: 20px  auto;
+    width: 40%;
+    color: #fff;
+    text-align: center;
+}
